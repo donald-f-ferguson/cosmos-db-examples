@@ -1,0 +1,4 @@
+
+
+class BaseDataService:
+    pass

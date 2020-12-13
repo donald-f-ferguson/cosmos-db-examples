@@ -1,4 +1,4 @@
-import CustomerService.utils.context as ctx
+import utils.context as ctx
 from DataService.base_data_service import BaseDataService
 import copy
 from azure.core._match_conditions import MatchConditions
